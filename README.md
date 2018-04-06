@@ -1,1 +1,1 @@
-# FigurasExtremas
+# FigurasExtremas App
